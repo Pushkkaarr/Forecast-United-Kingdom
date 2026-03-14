@@ -1,0 +1,3 @@
+# Jupyter Notebooks - keep locally but never commit
+*.ipynb
+.ipynb_checkpoints/
