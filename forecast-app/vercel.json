@@ -2,10 +2,5 @@
   "buildCommand": "npm run build",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "outputDirectory": "apps/web/.next",
-  "rootDirectory": "forecast-app",
-  "env": [
-    "NODE_ENV=production"
-  ],
-  "regions": ["iad1"]
+  "outputDirectory": "apps/web/.next"
 }
